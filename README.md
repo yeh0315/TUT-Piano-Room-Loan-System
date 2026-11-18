@@ -1,8 +1,8 @@
 # TUT-Piano-Room-Loan-System
 
-## Installation
+## 安裝方法
 
-Choose your device to view the installation guide:
+選擇你要安裝的裝置，然後查看安裝教學：
 
 - [Android](ANDROID.md)
 - [iOS / iPadOS](IOS.md)
@@ -11,7 +11,7 @@ Choose your device to view the installation guide:
 
 ## Script Download
 
-| File       | Description             |
+| 檔案       | 備註                    |
 | ---------- | ----------------------- |
 | `.user.js` | Userscript 腳本安裝檔案 |
 | `.txt`     | Plain text 原始碼       |
