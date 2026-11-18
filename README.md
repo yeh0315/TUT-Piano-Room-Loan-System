@@ -4,10 +4,10 @@
 
 選擇你要安裝的裝置，然後查看安裝教學：
 
-- [Android](ANDROID.md)
+- [Android](Android.md)
 - [iOS / iPadOS](IOS.md)
-- [macOS](MACOS.md)
-- [Windows / Linux](WINDOWS-LINUX.md)
+- [macOS](MacOS.md)
+- [Windows / Linux](Windows-Linux.md)
 
 ## Script Download
 
