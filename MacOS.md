@@ -50,7 +50,7 @@
 
 1. 開啟 [GitHub 專案](https://github.com/yeh0315/TUT-Piano-Room-Loan-System)。
 2. 找到名稱以 `.user.js` 結尾的腳本檔案。
-3. 點進檔案，點選 **Raw**。
+3. 點進檔案，點選 **Raw**。[或者點選這裡直接跳轉](https://raw.githubusercontent.com/yeh0315/TUT-Piano-Room-Loan-System/main/TUT-Piano-Room-Loan-System.user.js)。
 4. 瀏覽器應該會交由 Tampermonkey 或 Violentmonkey 處理。
 5. 確認腳本資訊。
 6. 點選「安裝」。

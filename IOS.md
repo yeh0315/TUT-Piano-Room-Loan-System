@@ -32,7 +32,7 @@ iOS 無法直接安裝桌面版 Tampermonkey，因此本指南使用開源 Safar
 
 1. 使用 Safari 開啟 [GitHub 專案](https://github.com/yeh0315/TUT-Piano-Room-Loan-System)。
 2. 找到名稱以 `.user.js` 結尾的腳本檔案。
-3. 點進檔案，點選 **Raw**。
+3. 點進檔案，點選 **Raw**。[或者點選這裡直接跳轉](https://raw.githubusercontent.com/yeh0315/TUT-Piano-Room-Loan-System/main/TUT-Piano-Room-Loan-System.user.js)。
 4. Safari 開啟腳本網址後，點選 Safari 的擴充功能按鈕。
 5. 開啟 Userscripts 擴充功能。
 6. 確認出現腳本安裝提示。

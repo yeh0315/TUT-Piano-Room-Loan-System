@@ -44,7 +44,7 @@
 
 1. 開啟 [GitHub 專案](https://github.com/yeh0315/TUT-Piano-Room-Loan-System)。
 2. 找到 `.txt` 結尾的腳本檔案。
-3. 點選 **Raw**。
+3. 點選 **Raw**。[或者點選這裡直接跳轉](https://raw.githubusercontent.com/yeh0315/TUT-Piano-Room-Loan-System/main/TUT-Piano-Room-Loan-System.user.js)。
 4. 使用 `Ctrl + A` 全選程式碼。
 5. 使用 `Ctrl + C` 複製。
 6. 開啟 Tampermonkey 或 Violentmonkey 管理面板。
